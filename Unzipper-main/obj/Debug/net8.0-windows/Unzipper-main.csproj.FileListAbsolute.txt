@@ -1,0 +1,17 @@
+D:\Projects\Unzipper\Unzipper-main\Unzipper-main\bin\Debug\net8.0-windows\Unzipper-main.exe
+D:\Projects\Unzipper\Unzipper-main\Unzipper-main\bin\Debug\net8.0-windows\Unzipper-main.deps.json
+D:\Projects\Unzipper\Unzipper-main\Unzipper-main\bin\Debug\net8.0-windows\Unzipper-main.runtimeconfig.json
+D:\Projects\Unzipper\Unzipper-main\Unzipper-main\bin\Debug\net8.0-windows\Unzipper-main.dll
+D:\Projects\Unzipper\Unzipper-main\Unzipper-main\bin\Debug\net8.0-windows\Unzipper-main.pdb
+D:\Projects\Unzipper\Unzipper-main\Unzipper-main\obj\Debug\net8.0-windows\Unzipper_main.Form1.resources
+D:\Projects\Unzipper\Unzipper-main\Unzipper-main\obj\Debug\net8.0-windows\Unzipper-main.csproj.GenerateResource.cache
+D:\Projects\Unzipper\Unzipper-main\Unzipper-main\obj\Debug\net8.0-windows\Unzipper-main.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\Unzipper\Unzipper-main\Unzipper-main\obj\Debug\net8.0-windows\Unzipper-main.AssemblyInfoInputs.cache
+D:\Projects\Unzipper\Unzipper-main\Unzipper-main\obj\Debug\net8.0-windows\Unzipper-main.AssemblyInfo.cs
+D:\Projects\Unzipper\Unzipper-main\Unzipper-main\obj\Debug\net8.0-windows\Unzipper-main.csproj.CoreCompileInputs.cache
+D:\Projects\Unzipper\Unzipper-main\Unzipper-main\obj\Debug\net8.0-windows\Unzipper-main.dll
+D:\Projects\Unzipper\Unzipper-main\Unzipper-main\obj\Debug\net8.0-windows\refint\Unzipper-main.dll
+D:\Projects\Unzipper\Unzipper-main\Unzipper-main\obj\Debug\net8.0-windows\Unzipper-main.pdb
+D:\Projects\Unzipper\Unzipper-main\Unzipper-main\obj\Debug\net8.0-windows\Unzipper-main.genruntimeconfig.cache
+D:\Projects\Unzipper\Unzipper-main\Unzipper-main\obj\Debug\net8.0-windows\ref\Unzipper-main.dll
+D:\Projects\Unzipper\Unzipper-main\Unzipper-main\obj\Debug\net8.0-windows\Unzipper_main.Properties.Resources.resources
