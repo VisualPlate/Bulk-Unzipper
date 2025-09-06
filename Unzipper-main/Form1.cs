@@ -8,8 +8,10 @@ namespace Unzipper_main
 {
     public partial class Form1 : Form
     {
-
+        //Import folder aka the folder that your zip files are put
         string dirPath = Path.Combine(Application.StartupPath, "unzippingFolder");
+
+        //Export folder aka the folder that your zip files unpacked
         string exportedPath = Path.Combine(Application.StartupPath, "exported");
         public Form1()
         {
@@ -111,10 +113,9 @@ namespace Unzipper_main
 
         private void toolStripButton1_Click(object sender, EventArgs e)
         {
+            //unzip function
             try
             {
-
-                Console.WriteLine("Clicked");
 
                 if (Directory.Exists(dirPath) && Directory.Exists(exportedPath))
                 {

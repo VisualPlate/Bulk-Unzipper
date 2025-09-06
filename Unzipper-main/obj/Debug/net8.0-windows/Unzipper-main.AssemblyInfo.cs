@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Unzipper-main")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a0fc3762db2c1fc039ffcbe97bebb0db66de9048")]
 [assembly: System.Reflection.AssemblyProductAttribute("Unzipper-main")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Unzipper-main")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

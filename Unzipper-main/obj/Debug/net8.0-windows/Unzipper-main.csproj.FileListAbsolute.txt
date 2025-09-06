@@ -15,3 +15,4 @@ D:\Projects\Unzipper\Unzipper-main\Unzipper-main\obj\Debug\net8.0-windows\Unzipp
 D:\Projects\Unzipper\Unzipper-main\Unzipper-main\obj\Debug\net8.0-windows\Unzipper-main.genruntimeconfig.cache
 D:\Projects\Unzipper\Unzipper-main\Unzipper-main\obj\Debug\net8.0-windows\ref\Unzipper-main.dll
 D:\Projects\Unzipper\Unzipper-main\Unzipper-main\obj\Debug\net8.0-windows\Unzipper_main.Properties.Resources.resources
+D:\Projects\Unzipper\Unzipper-main\Unzipper-main\obj\Debug\net8.0-windows\Unzipper-main.sourcelink.json

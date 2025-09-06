@@ -59,7 +59,7 @@
             txtBoxExport.BorderStyle = BorderStyle.None;
             txtBoxExport.Cursor = Cursors.IBeam;
             txtBoxExport.Font = new Font("Arial", 9F);
-            txtBoxExport.Location = new Point(3, 3);
+            txtBoxExport.Location = new Point(403, 3);
             txtBoxExport.Name = "txtBoxExport";
             txtBoxExport.ReadOnly = true;
             txtBoxExport.ScrollBars = RichTextBoxScrollBars.Vertical;
@@ -91,79 +91,79 @@
             // 
             openToolStripMenuItem.DropDownItems.AddRange(new ToolStripItem[] { exportFolderToolStripMenuItem, unzipFolderToolStripMenuItem });
             openToolStripMenuItem.Name = "openToolStripMenuItem";
-            openToolStripMenuItem.Size = new Size(112, 22);
+            openToolStripMenuItem.Size = new Size(180, 22);
             openToolStripMenuItem.Text = "Open";
             // 
             // exportFolderToolStripMenuItem
             // 
             exportFolderToolStripMenuItem.Name = "exportFolderToolStripMenuItem";
-            exportFolderToolStripMenuItem.Size = new Size(143, 22);
+            exportFolderToolStripMenuItem.Size = new Size(146, 22);
             exportFolderToolStripMenuItem.Text = "Export Folder";
             exportFolderToolStripMenuItem.Click += exportFolderToolStripMenuItem_Click;
             // 
             // unzipFolderToolStripMenuItem
             // 
             unzipFolderToolStripMenuItem.Name = "unzipFolderToolStripMenuItem";
-            unzipFolderToolStripMenuItem.Size = new Size(143, 22);
-            unzipFolderToolStripMenuItem.Text = "Unzip Folder";
+            unzipFolderToolStripMenuItem.Size = new Size(146, 22);
+            unzipFolderToolStripMenuItem.Text = "Import Folder";
             unzipFolderToolStripMenuItem.Click += unzipFolderToolStripMenuItem_Click;
             // 
             // toolStripSeparator1
             // 
             toolStripSeparator1.Name = "toolStripSeparator1";
-            toolStripSeparator1.Size = new Size(109, 6);
+            toolStripSeparator1.Size = new Size(177, 6);
             // 
             // toolStripMenuItem1
             // 
             toolStripMenuItem1.DropDownItems.AddRange(new ToolStripItem[] { exportFolderToolStripMenuItem1, unzipFolderToolStripMenuItem1 });
             toolStripMenuItem1.Name = "toolStripMenuItem1";
-            toolStripMenuItem1.Size = new Size(112, 22);
+            toolStripMenuItem1.Size = new Size(180, 22);
             toolStripMenuItem1.Text = "Delete";
             // 
             // exportFolderToolStripMenuItem1
             // 
             exportFolderToolStripMenuItem1.Name = "exportFolderToolStripMenuItem1";
-            exportFolderToolStripMenuItem1.Size = new Size(143, 22);
+            exportFolderToolStripMenuItem1.Size = new Size(146, 22);
             exportFolderToolStripMenuItem1.Text = "Export Folder";
             exportFolderToolStripMenuItem1.Click += exportFolderToolStripMenuItem1_Click;
             // 
             // unzipFolderToolStripMenuItem1
             // 
             unzipFolderToolStripMenuItem1.Name = "unzipFolderToolStripMenuItem1";
-            unzipFolderToolStripMenuItem1.Size = new Size(143, 22);
-            unzipFolderToolStripMenuItem1.Text = "Unzip Folder";
+            unzipFolderToolStripMenuItem1.Size = new Size(146, 22);
+            unzipFolderToolStripMenuItem1.Text = "Import Folder";
             unzipFolderToolStripMenuItem1.Click += unzipFolderToolStripMenuItem1_Click;
             // 
             // toolStripSeparator2
             // 
             toolStripSeparator2.Name = "toolStripSeparator2";
-            toolStripSeparator2.Size = new Size(109, 6);
+            toolStripSeparator2.Size = new Size(177, 6);
             // 
             // toolStripMenuItem2
             // 
-            toolStripMenuItem2.DropDownItems.AddRange(new ToolStripItem[] { folderListToolStripMenuItem, unzipToolStripMenuItem, exportToolStripMenuItem });
+            toolStripMenuItem2.DropDownItems.AddRange(new ToolStripItem[] { folderListToolStripMenuItem, exportToolStripMenuItem, unzipToolStripMenuItem });
             toolStripMenuItem2.Name = "toolStripMenuItem2";
-            toolStripMenuItem2.Size = new Size(112, 22);
+            toolStripMenuItem2.Size = new Size(180, 22);
             toolStripMenuItem2.Text = "Update";
             // 
             // folderListToolStripMenuItem
             // 
             folderListToolStripMenuItem.Name = "folderListToolStripMenuItem";
-            folderListToolStripMenuItem.Size = new Size(107, 22);
+            folderListToolStripMenuItem.Size = new Size(180, 22);
             folderListToolStripMenuItem.Text = "All";
             folderListToolStripMenuItem.Click += folderListToolStripMenuItem_Click;
             // 
             // unzipToolStripMenuItem
             // 
             unzipToolStripMenuItem.Name = "unzipToolStripMenuItem";
-            unzipToolStripMenuItem.Size = new Size(107, 22);
-            unzipToolStripMenuItem.Text = "Unzip";
+            unzipToolStripMenuItem.Size = new Size(180, 22);
+            unzipToolStripMenuItem.Text = "Import";
             unzipToolStripMenuItem.Click += unzipToolStripMenuItem_Click;
             // 
             // exportToolStripMenuItem
             // 
             exportToolStripMenuItem.Name = "exportToolStripMenuItem";
-            exportToolStripMenuItem.Size = new Size(107, 22);
+            exportToolStripMenuItem.Size = new Size(180, 22);
             exportToolStripMenuItem.Text = "Export";
             exportToolStripMenuItem.Click += exportToolStripMenuItem_Click;
             // 
@@ -187,8 +187,8 @@
             tableLayoutPanel1.ColumnCount = 2;
             tableLayoutPanel1.ColumnStyles.Add(new ColumnStyle(SizeType.Percent, 50F));
             tableLayoutPanel1.ColumnStyles.Add(new ColumnStyle(SizeType.Percent, 50F));
-            tableLayoutPanel1.Controls.Add(txtBoxExport, 0, 0);
-            tableLayoutPanel1.Controls.Add(txtBoxUnzip, 1, 0);
+            tableLayoutPanel1.Controls.Add(txtBoxUnzip, 0, 0);
+            tableLayoutPanel1.Controls.Add(txtBoxExport, 1, 0);
             tableLayoutPanel1.Dock = DockStyle.Fill;
             tableLayoutPanel1.Location = new Point(0, 25);
             tableLayoutPanel1.Name = "tableLayoutPanel1";
@@ -204,12 +204,12 @@
             txtBoxUnzip.BorderStyle = BorderStyle.None;
             txtBoxUnzip.Cursor = Cursors.IBeam;
             txtBoxUnzip.Font = new Font("Arial", 9F);
-            txtBoxUnzip.Location = new Point(403, 3);
+            txtBoxUnzip.Location = new Point(3, 3);
             txtBoxUnzip.Name = "txtBoxUnzip";
             txtBoxUnzip.ReadOnly = true;
             txtBoxUnzip.ScrollBars = RichTextBoxScrollBars.Vertical;
             txtBoxUnzip.Size = new Size(394, 442);
-            txtBoxUnzip.TabIndex = 9;
+            txtBoxUnzip.TabIndex = 10;
             txtBoxUnzip.Text = "";
             // 
             // Form1

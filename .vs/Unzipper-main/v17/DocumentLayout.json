@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "D:\\Projects\\Unzipper\\Unzipper-main\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{28DAF84C-A7E0-4032-BC60-8EE4DB01D40D}|Unzipper-main\\Unzipper-main.csproj|d:\\projects\\unzipper\\unzipper-main\\unzipper-main\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{28DAF84C-A7E0-4032-BC60-8EE4DB01D40D}|Unzipper-main\\Unzipper-main.csproj|solutionrelative:unzipper-main\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{28DAF84C-A7E0-4032-BC60-8EE4DB01D40D}|Unzipper-main\\Unzipper-main.csproj|d:\\projects\\unzipper\\unzipper-main\\unzipper-main\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{28DAF84C-A7E0-4032-BC60-8EE4DB01D40D}|Unzipper-main\\Unzipper-main.csproj|solutionrelative:unzipper-main\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28DAF84C-A7E0-4032-BC60-8EE4DB01D40D}|Unzipper-main\\Unzipper-main.csproj|d:\\projects\\unzipper\\unzipper-main\\unzipper-main\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{28DAF84C-A7E0-4032-BC60-8EE4DB01D40D}|Unzipper-main\\Unzipper-main.csproj|solutionrelative:unzipper-main\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,24 +18,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Form1.cs",
               "DocumentMoniker": "D:\\Projects\\Unzipper\\Unzipper-main\\Unzipper-main\\Form1.cs",
               "RelativeDocumentMoniker": "Unzipper-main\\Form1.cs",
               "ToolTip": "D:\\Projects\\Unzipper\\Unzipper-main\\Unzipper-main\\Form1.cs",
               "RelativeToolTip": "Unzipper-main\\Form1.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAO8AAAAjAAAAAAAAAA==",
+              "ViewState": "AgIAAMUAAAAAAAAAAAAAwMoAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-25T19:45:32.057Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Form1.cs [Design]",
               "DocumentMoniker": "D:\\Projects\\Unzipper\\Unzipper-main\\Unzipper-main\\Form1.cs",
               "RelativeDocumentMoniker": "Unzipper-main\\Form1.cs",
